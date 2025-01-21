@@ -1,3 +1,3 @@
 # Ask-her-out
 Love Proposal project 
-Made By Ritesh Paithankar
+Made By Nitish and Subarna
